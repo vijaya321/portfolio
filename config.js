@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/portfolio',
+  pathPrefix: '',
   siteUrl: 'https://vijaya.com',
   siteTitle: 'Vijaya',
   siteDescription: 'Portfolio of a software developer',
