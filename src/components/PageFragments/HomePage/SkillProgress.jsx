@@ -35,12 +35,12 @@ const SkillsProgress = () => (
           text="HTML5"
         />
         <ProgressBar
-          percent={78}
-          text="MongoDB"
+          percent={70}
+          text="Redux"
         />
         <ProgressBar
-          percent={80}
-          text="Wordpress"
+          percent={72}
+          text="React Hooks"
         />
       </Col>
     </Row>
