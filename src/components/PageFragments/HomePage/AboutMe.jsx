@@ -22,7 +22,7 @@ const AboutMe = () => {
           title="About"
           description={description}
           path=""
-          keywords={['Rolwin', 'Reevan', 'Monteiro', 'FullStack developer', 'Javascript', 'ReactJS', 'NodeJS', 'Gatsby']}
+          keywords={['Vijaya', 'Biradar', 'Web Developer', 'FullStack developer', 'Javascript', 'ReactJS', 'React Hooks', 'Gatsby']}
         />
         <h1 className="titleSeparate">About Me</h1>
         <p>
@@ -36,8 +36,8 @@ const AboutMe = () => {
             img="location.png"
             height={60}
             alt="location image"
-            textH4="Born and bought up in"
-            textH3="Karnataka, India"
+            textH4="City I currently live in"
+            textH3="Parlin, New Jersey. USA"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
