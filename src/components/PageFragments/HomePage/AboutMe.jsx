@@ -42,18 +42,18 @@ const AboutMe = () => {
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
           <AboutTile
+            img="meeting.png"
+            alt="meeting image"
+            textH4="Company I work for"
+            textH3="Infosys. Tampa, Florida"
+          />
+        </Col>
+       <Col xs={24} sm={24} md={12} lg={8}>
+          <AboutTile
             img="coffee.png"
             alt="coffee image"
             textH4="Love Coffee"
             textH3="Coffee + Me = Happiness"
-          />
-        </Col>
-        <Col xs={24} sm={24} md={12} lg={8}>
-          <AboutTile
-            img="meeting.png"
-            alt="meeting image"
-            textH4="Hospitable"
-            textH3="Friends make me happy"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
