@@ -8,7 +8,7 @@ import SEO from '../../Seo';
 const pageText = {
   paraOne: `Hello!! My name is Vijaya. I'm a front end web developer who is
     passionate about various web technologies. I like to experiment with different web
-    technologies. I have an experience of 4.5 years working with ES6, React, REST APIs, JSON and LAMP stack. I love Building fancy UI's!😎`,
+    technologies. I have an experience of 5 years working with ES6, React, REST APIs, JSON and LAMP stack. I love Building fancy UI's!😎`,
   paraTwo: `Currently I work mostly with Javascript technologies like ReactJS, React-Redux and React Hooks. I am also
     working on Figma to enhance my web designing skills. I'm always a learner and a self taught programmer.`,
 };
