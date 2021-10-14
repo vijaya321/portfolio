@@ -37,15 +37,15 @@ const AboutMe = () => {
             height={60}
             alt="location image"
             textH4="City I currently live in"
-            textH3="Parlin, New Jersey. USA"
+            textH3="Bellevue. Washington. USA"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
           <AboutTile
             img="meeting.png"
             alt="meeting image"
-            textH4="Company I work for"
-            textH3="Infosys. Tampa, Florida"
+            textH4="Recent Company I worked for"
+            textH3="Infosys. Richardson, Texas"
           />
         </Col>
        <Col xs={24} sm={24} md={12} lg={8}>
