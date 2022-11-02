@@ -6,11 +6,10 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hello!! My name is Vijaya. I'm a front end web developer who is
-    passionate about various web technologies. I like to experiment with different web
-    technologies. I have an experience of 5 years working with ES6, React, REST APIs, JSON and LAMP stack. I love Building fancy UI's!😎`,
-  paraTwo: `Currently I work mostly with Javascript technologies like ReactJS, React-Redux and React Hooks. I am also
-    working on Figma to enhance my web designing skills. I'm always a learner and a self taught programmer.`,
+  paraOne: `Hey there! I'm Vijaya Biradar, a Full Stack Engineer with professional experience in developing, optimizing and deploying web applications - with great understanding of the importance of system design, object-oriented programming, 
+  data structures and algorithms, with proven ability to leverage my experience to build innovative and user-centered applications.`,
+  paraTwo: `I have about 5 years of IT experience. Currently I work on Javascript technologies like ReactJS, React-Redux and React Hooks and Java Spring Boot. I am also
+    working on no-sql db to enhance my full stack development skills. I'm always a learner and a self taught programmer.`,
 };
 
 const AboutMe = () => {
@@ -37,7 +36,7 @@ const AboutMe = () => {
             height={60}
             alt="location image"
             textH4="City I currently live in"
-            textH3="Bellevue. Washington. USA"
+            textH3="Raleigh. North Carolina. USA"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
@@ -45,7 +44,7 @@ const AboutMe = () => {
             img="meeting.png"
             alt="meeting image"
             textH4="Recent Company I worked for"
-            textH3="Infosys. Richardson, Texas"
+            textH3="Verizon. Richardson, Texas"
           />
         </Col>
        <Col xs={24} sm={24} md={12} lg={8}>
