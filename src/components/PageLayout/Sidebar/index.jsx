@@ -41,7 +41,7 @@ const DomContent = () => (
         <li className={`${style.contactBlockItem}`}>
           <span><FeatherIcon size="19" icon="map-pin" /></span>
           {' '}
-&nbsp; &nbsp; Karnataka, India
+&nbsp; &nbsp; Raleigh, North Carolina
         </li>
         <li className={`${style.contactBlockItem}`}>
           <span><FeatherIcon size="19" icon="mail" /></span>
