@@ -21,10 +21,10 @@ const DomContent = () => (
     <div className={`${style.name} centerAlign`}>
       <div className={`${style.boxName} centerAlign`}>
         <h2>
-          <span>Vijaya</span>
+          <span>Vijaya Biradar</span>
         </h2>
       </div>
-      <div className={`${style.badge} ${style.badgeGray}`}>Software Engineer</div>
+      <div className={`${style.badge} ${style.badgeGray}`}>Software Engineer-Full Stack</div>
       <div className="centerAlign box">
         <a href={linkedin} target="_blank" label="button" rel="noopener noreferrer"><FA name="linkedin" /></a>
         <a href={github} target="_blank" label="button" rel="noopener noreferrer"><FA name="github" /></a>
