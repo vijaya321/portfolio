@@ -6,10 +6,12 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hey there! I'm Vijaya Biradar, a Full Stack Engineer with professional experience in developing, optimizing and deploying web applications - with great understanding of the importance of system design, object-oriented programming, 
-  data structures and algorithms, with proven ability to leverage my experience to build innovative and user-centered applications.`,
-  paraTwo: `I have about 5 years of IT experience. Currently I work on Javascript technologies like ReactJS, React-Redux and React Hooks and Java Spring Boot. I am also
-    working on no-sql db to enhance my full stack development skills. I'm always a learner and a self taught programmer.`,
+  paraOne: `I am a seasoned Frontend Developer with 8+ years of experience in building modern, scalable web applications. My expertise spans React (Vite), Redux Toolkit, and component-driven architectures, 
+  with a strong focus on creating intuitive, high-performance user interfaces. I specialize in developing clean, maintainable code and seamless integrations with backend microservices, ensuring applications are robust, 
+  efficient, and user-friendly.`,
+  paraTwo: `Alongside frontend development, I am passionate about AI-driven solutions. I have hands-on experience integrating AI models into applications for automation and personalization, 
+  such as generating dynamic content, enhancing user interactions, and streamlining workflows. By combining my frontend expertise with AI skills, 
+  I aim to build intelligent, data-driven applications that deliver impactful user experiences.`,
 };
 
 const AboutMe = () => {
@@ -21,7 +23,7 @@ const AboutMe = () => {
           title="About"
           description={description}
           path=""
-          keywords={['Vijaya', 'Biradar', 'Web Developer', 'FullStack developer', 'Javascript', 'ReactJS', 'React Hooks', 'Gatsby']}
+          keywords={['Vijaya', 'Biradar', 'Web Developer', 'FullStack Developer', 'Javascript', 'ReactJS', 'React Hooks', 'Gatsby']}
         />
         <h1 className="titleSeparate">About Me</h1>
         <p>
@@ -44,7 +46,7 @@ const AboutMe = () => {
             img="meeting.png"
             alt="meeting image"
             textH4="Recent Company I worked for"
-            textH3="Verizon. Richardson, Texas"
+            textH3="UBS. Raleigh, North Carolina"
           />
         </Col>
        <Col xs={24} sm={24} md={12} lg={8}>
@@ -68,7 +70,7 @@ const AboutMe = () => {
             img="web.png"
             alt="web image"
             textH4="Self Taught Programmer"
-            textH3="Thanks to the Web Resources"
+            textH3="Thanks to the Web Resources and AI Agents"
             height={60}
             width={60}
           />
